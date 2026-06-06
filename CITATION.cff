@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: constitutional-ai-mini
+message: "Constitutional-AI mini: critique-and-revise loop with principle-violation tracking."
+authors:
+  - family-names: "Lingampally"
+    given-names: "Akshitha Reddy"
+date-released: "2025-05-25"
+version: "0.3.0"
+license: "MIT"
+url: "https://github.com/Akshitha024/constitutional-ai-mini"

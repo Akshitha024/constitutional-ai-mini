@@ -1,0 +1,26 @@
+.....                                                                    [100%]
+================================ tests coverage ================================
+_______________ coverage: platform darwin, python 3.13.3-final-0 _______________
+
+Name                                  Stmts   Miss  Cover
+---------------------------------------------------------
+src/caimini/__init__.py                   1      0   100%
+src/caimini/cli/__init__.py               0      0   100%
+src/caimini/cli/main.py                  17     17     0%
+src/caimini/critic/__init__.py            0      0   100%
+src/caimini/critic/checker.py             9      0   100%
+src/caimini/judge/__init__.py             0      0   100%
+src/caimini/judge/winrate.py             15      2    87%
+src/caimini/principles/__init__.py        0      0   100%
+src/caimini/principles/library.py         4      0   100%
+src/caimini/prompts/__init__.py           0      0   100%
+src/caimini/prompts/instructions.py       4      0   100%
+src/caimini/reviser/__init__.py           0      0   100%
+src/caimini/reviser/rewriter.py          17      1    94%
+src/caimini/runner.py                    41      0   100%
+src/caimini/types.py                     26      0   100%
+src/caimini/viz/__init__.py               0      0   100%
+src/caimini/viz/charts.py                68      0   100%
+---------------------------------------------------------
+TOTAL                                   202     20    90%
+5 passed in 0.62s
